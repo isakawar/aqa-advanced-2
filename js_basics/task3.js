@@ -1,6 +1,6 @@
+const nameFirstUser = "Mykola"
+const nameSecondUser = "Angelina"
+const welcomeTemplateText = "Welcome on board"
 
-let nameFirstUser = "Mykola"
-let nameSecondUser = "Angelina"
-const welcomeTemplateText = "Welcome on board, "
-
-console.log(welcomeTemplateText + nameFirstUser + " and " + nameSecondUser)
+console.log(welcomeTemplateText)
+console.log(welcomeTemplateText + ", " + nameFirstUser + " and " + nameSecondUser)

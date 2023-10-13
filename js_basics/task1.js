@@ -1,7 +1,7 @@
-const exampleString = 'String for task 1'
-const exampleNumber = 123
-const exampleBoolean = true
-const exampleNull = null
-let exampleUndefined
+const exampleStringVariable = 'String for task 1'
+const exampleNumberVariable = 123
+const exampleBooleanVariable = true
+const exampleNullVariable = null
+let exampleUndefinedVariable
 
-console.log(` String type: ${exampleString}\n Number type: ${exampleNumber}\n Boolean type ${exampleBoolean}\n Null type: ${exampleNull}\n Undefined type: ${exampleUndefined}`);
+console.log(` String type: ${exampleStringVariable}\n Number type: ${exampleNumberVariable}\n Boolean type ${exampleBooleanVariable}\n Null type: ${exampleNullVariable}\n Undefined type: ${exampleUndefinedVariable}`);
