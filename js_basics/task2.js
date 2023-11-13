@@ -1,5 +1,5 @@
-import chalk from 'chalk';
+import chalk from 'chalk'
 
-const colorGreetingText = `${chalk.blueBright("Hello")}\n${chalk.yellowBright("Ukraine")}`
+const colorGreetingText = `${chalk.blueBright('Hello')}\n${chalk.yellowBright('Ukraine')}`
 
-console.log(colorGreetingText);
+console.log(colorGreetingText)
